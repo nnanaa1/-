@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "map",
+  "renderer": "skyline",
+  "disableScroll": true,
+  "navigationStyle": "custom"
+}

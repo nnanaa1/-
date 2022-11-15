@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "swiper",
+  "renderer": "skyline",
+  "disableScroll": true,
+  "navigationStyle": "custom"
+}
